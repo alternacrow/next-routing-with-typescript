@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Link from "next/link";
-import { User, USER_LIST } from "../../../constants";
+import { USER_LIST } from "../../../constants";
 import { createPath, usePathParams } from "../../../routing";
 
 const User: NextPage = () => {

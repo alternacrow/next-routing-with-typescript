@@ -1,5 +1,4 @@
 import type { NextPage } from "next";
-import { useRouter } from "next/router";
 import Link from "next/link";
 import { BLOG_LIST } from "../../../../constants";
 import { createPath, usePathParams } from "../../../../routing";
